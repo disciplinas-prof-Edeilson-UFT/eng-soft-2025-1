@@ -70,13 +70,6 @@ O DailyPanner é uma plataforma de organização diaria, planejamento de ativida
 | Link para repositório do projeto | [DailyPlanner](https://github.com/lfocarvalho/engenhariadesoftware)
 
 ---
-# Engenharia de Software-2025.1 - Universidade Federal do Tocantins - Palmas
-
-### Curso: Bacharelado em Ciência da Computação
-
-### Professor: Edeilson Milhomem da Silva
-
-## Grupos:
 
 ### Grupo 6:
 
