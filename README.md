@@ -88,8 +88,8 @@ Com a **NutriCalc**, é possível se manter informado sobre alimentação saudá
 
 Nome | Github  
 --- | ---  
-[Usuário 1](https://github.com/JonataRubens) | [@usuario1](https://github.com/JonataRubens)  
-[Usuário 2](https://github.com/caiogn-dev) | [@usuario2](https://github.com/caiogn-dev)  
+[Jonata Rubens](https://github.com/JonataRubens) | [@JonataRubens](https://github.com/JonataRubens)  
+[Caio Gonçalves Nascimento](https://github.com/caiogn-dev) | [@caiogn-dev](https://github.com/caiogn-dev)  
  
 
 #### Link para o Repositório do Projeto
