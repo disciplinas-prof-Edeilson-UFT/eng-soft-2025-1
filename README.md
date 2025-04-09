@@ -87,9 +87,13 @@ Com a **NutriCalc**, é possível se manter informado sobre alimentação saudá
 #### Equipe
 
 Nome | Github  
---- | ---  
-[Jonata Rubens](https://github.com/JonataRubens) | [@JonataRubens](https://github.com/JonataRubens)  
+--- | ---    
+[Afonso Dglan](https://github.com/AfonsoDglan) | [@AfonsoDglan](https://github.com/AfonsoDglan)
 [Caio Gonçalves Nascimento](https://github.com/caiogn-dev) | [@caiogn-dev](https://github.com/caiogn-dev)  
+[Carlos Ribeiro](https://github.com/caiogn-dev) | [@CarlosRibeiro-CERL](https://github.com/CarlosRibeiro-CERL)  
+[Jonata Rubens](https://github.com/JonataRubens) | [@JonataRubens](https://github.com/JonataRubens)
+[Marcus Vinícius](https://github.com/Galessss) | [@Galessss](https://github.com/Galessss)
+
  
 
 #### Link para o Repositório do Projeto
