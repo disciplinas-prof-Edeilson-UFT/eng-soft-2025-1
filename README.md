@@ -54,3 +54,19 @@ O FinPlan é uma plataforma online de gestão financeira pessoal desenvolvida pa
 | [Link para repositório do projeto](https://github.com/DevThiagoGalvaoAmorim/Do-it.git) |
 
 ---
+
+### Grupo 4: 
+#### DailyPlanner
+O DailyPanner é uma plataforma de organização diaria, planejamento de atividades, e cumprimento de metas, com um viés focado em visual e experiência de usuário. Feito para trazer um controle à suas atividades diarias!
+#### Equipe
+| Nome | Github |
+| ------------------------- | ------------------------------------------ |
+| Isabela Barros de Oliveira. | [@Isabelabarros-o](https://github.com/isabelabarros-o) |
+| Letícia Gomes Lopes. | [@LeticiaGLopes](https://github.com/LeticiaGLopes-151) |
+| Luiz Fernando De Oliveira Carvalho. | [@Lfocarvalho](https://github.com/lfocarvalho) |
+| Mateus Leopoldo Santiago da Silva. | [@MateusLeopoldo](https://github.com/MateusLeopoldo) |
+| Natália Morais Nerys. | [@Natalia-Nerys](https://github.com/natalia-nerys) |
+| Ranor Victor dos Santos Araújo. | [@RanorVictor](https://github.com/ranorvictor) |
+| Link para repositório do projeto | [DailyPlanner](https://github.com/lfocarvalho/engenhariadesoftware)
+
+---
