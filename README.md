@@ -94,16 +94,9 @@ O DailyPanner é uma plataforma de organização diaria, planejamento de ativida
 
 ### Grupo 6:
 
-#### NutriCalc
+#### BlogNews
 
-**NutriCalc** é uma aplicação desenvolvida com o intuito de ajudar usuários a calcular informações nutricionais, controlar dietas e gerar relatórios relacionados à alimentação saudável. O objetivo principal da ferramenta é facilitar a vida de quem deseja manter uma alimentação equilibrada e saudável, oferecendo funcionalidades práticas e eficientes para o cálculo do IMC (Índice de Massa Corporal), sugestões de dietas personalizadas e relatórios detalhados sobre hábitos alimentares.
-
-#### Funcionalidades principais:
-- **Cálculo de IMC (Índice de Massa Corporal):** A aplicação permite que o usuário calcule rapidamente seu IMC, fornecendo uma avaliação simples sobre o estado de saúde com base no peso e altura.
-- **Criação de Dietas:** Com base nas informações do usuário, o NutriCalc sugere planos alimentares ajustados às suas necessidades nutricionais, auxiliando na manutenção de dietas equilibradas e na obtenção de metas de saúde.
-- **Geração de Relatórios Nutricionais:** A ferramenta oferece a opção de gerar relatórios sobre os hábitos alimentares do usuário, facilitando o acompanhamento da dieta e oferecendo dicas para melhorar a alimentação.
-
-Com a **NutriCalc**, é possível se manter informado sobre alimentação saudável, acompanhar o progresso das metas de saúde e tomar decisões mais conscientes sobre a alimentação.
+Aplicação web em Django que funciona como um blog simples, permitindo listar e visualizar posts. O projeto foi criado com foco no aprendizado de Git em equipe, com uma estrutura básica para facilitar a compreensão de Django e do fluxo de versionamento.
 
 #### Equipe
 
@@ -119,7 +112,7 @@ Nome | Github
 
 #### Link para o Repositório do Projeto
 
-[Repositório NutriCalc](https://github.com/JonataRubens/NutriCalc)
+[Repositório Blog](https://github.com/JonataRubens/BlogDeNoticias.git)
 
 ---
 
