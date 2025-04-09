@@ -67,7 +67,7 @@ A plataforma conta com login seguro, área de monitoramento, e funcionalidades v
 | Nome | Github |
 | ------------------------- | ------------------------------------------ |
 | João Hott | (https://github.com/HottBraz) |
-| Hallef Kayk | (https://github.com/Hallef KayK) |
+| Hallef Kayk | (https://github.com/HallefKayK) |
 | samuel Andrade Luz Carneiro |(https://github.com/Samuel1-salc) |
 | Sophia Ribeiro prado  | (https://github.com/sophiaprado1) |
 | Heitor Fernades | (https://github.com/HeitorFernandes04) |
