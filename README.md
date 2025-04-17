@@ -94,9 +94,9 @@ O DailyPanner é uma plataforma de organização diaria, planejamento de ativida
 
 ### Grupo 6:
 
-#### BlogNews
+#### NutriCalc
 
-Aplicação web em Django que funciona como um blog simples, permitindo listar e visualizar posts. O projeto foi criado com foco no aprendizado de Git em equipe, com uma estrutura básica para facilitar a compreensão de Django e do fluxo de versionamento.
+NutriCalc é uma aplicação web desenvolvida com PHP, HTML e CSS, com o objetivo de facilitar o controle e acompanhamento de informações nutricionais.
 
 #### Equipe
 
@@ -112,7 +112,7 @@ Nome | Github
 
 #### Link para o Repositório do Projeto
 
-[Repositório Blog](https://github.com/JonataRubens/BlogDeNoticias.git)
+[Repositório](https://github.com/JonataRubens/NutriCalc.git)
 
 ---
 
