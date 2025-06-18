@@ -8,7 +8,16 @@
 ### Grupo 1:
 
 #### BiblioTech
-Descrição: O BiblioTech é uma livraria digital que permite a venda de livros digitais (ebooks) de forma acessível e organizada. Os usuários poderão explorar um catálogo de livros, realizar compras e acessar sua biblioteca digital para leitura dos ebooks adquiridos.
+
+
+|<h2><a href="https://biblioo.tech/">Bibliotech</a></h2><br>  O BiblioTech é uma livraria digital que permite a venda de livros digitais (ebooks) de forma acessível e organizada. Os usuários poderão explorar um catálogo de livros, realizar compras e acessar sua biblioteca digital para leitura dos ebooks adquiridos. |<img src="https://gwgmjgyiyrhwgnspuaud.supabase.co/storage/v1/object/sign/images/logo.jpg?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV9iYjA3NWUwNS1kY2Y3LTRhZjktOGUyNy01YmU4YzczZmVmNzEiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJpbWFnZXMvbG9nby5qcGciLCJpYXQiOjE3NTAyMDYyMDAsImV4cCI6MTkwNzg4NjIwMH0.vGC0x2iX3cm-lAqx0G9GfwEy9FzF0K_pmUA9sj1eOtk" alt="Bibliotech" /> |
+| ------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+
+![php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![html](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
+![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![javascript](	https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 #### Equipe
 | Nome | Github |
