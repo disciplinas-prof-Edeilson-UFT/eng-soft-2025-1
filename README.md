@@ -66,9 +66,8 @@ Além disso, metodologias ágeis estudadas ao longo da disciplina também deveri
 ---
 
 ### Grupo 3:
-|<img src="https://github.com/user-attachments/assets/346e703f-fa86-419d-8b17-6b2b5a47dc13" alt="DO IT" /> | <h2><a href="https://github.com/DevThiagoGalvaoAmorim/Do-it">Do it</a></h2><br> Este é um aplicativo de gerenciamento de tarefas que ajuda você a organizar, acompanhar e concluir suas tarefas com eficiência! |
+|![5e59dc5f-01ae-4219-9555-aa839e718ddf](https://github.com/user-attachments/assets/160b84f3-2270-439e-a23d-f93fd4c2fed8) | <h2><a href="https://github.com/DevThiagoGalvaoAmorim/Do-it">Do it</a></h2><br> Este é um aplicativo de gerenciamento de tarefas que ajuda você a organizar, acompanhar e concluir suas tarefas com eficiência! |
 | ------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-
 
 #### Equipe
 | Nome | Github |
@@ -79,7 +78,15 @@ Além disso, metodologias ágeis estudadas ao longo da disciplina também deveri
 | João Sestari Galvão | [@joaosgalvao](https://github.com/joaosgalvao) |
 | Raphael Sales de Souza | [@raphaelsales](https://github.com/raphaelsales) |
 | Guilherme da Silva Carvalho | [@guilherme1737](https://github.com/guilherme1737) |
-| [Link para repositório do projeto](https://github.com/DevThiagoGalvaoAmorim/Do-it.git) |
+
+#### Repositório:
+| Links Uteis                                                                                |
+|------------------------------------------------------------------------------------------- |
+| [Do it- Ir ao Repositório](https://github.com/DevThiagoGalvaoAmorim/Do-it.git)     |
+| [Landing Page]() |
+| [Versão Final]() |
+| [Vídeo do produto]() | 
+| [Apresentação Final]() |
 
 ---
 
