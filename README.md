@@ -38,7 +38,7 @@
 | [Landing Page](https://thomazllr.github.io/bibliotech/) |
 | [Versão Final](https://github.com/thomazllr/bibliotech/releases/tag/v5.0.0) |
 | [Vídeo do produto]() | 
-| [Apresentação Final]() |
+| [Apresentação Final](https://github.com/thomazllr/bibliotech/blob/main/relatorios/apresentacao-final_bibliotech.pdf) |
 
 <hr>
 
