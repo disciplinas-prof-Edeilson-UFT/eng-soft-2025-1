@@ -37,7 +37,7 @@
 | [BiblioTech - Ir ao Repositório](https://github.com/thomazllr/bibliotech)     |
 | [Landing Page](https://thomazllr.github.io/bibliotech/) |
 | [Versão Final](https://github.com/thomazllr/bibliotech/releases/tag/v5.0.0) |
-| [Vídeo do produto]() | 
+| [Vídeo do produto](https://youtu.be/jdrw7Boz4Xs?feature=shared) | 
 | [Apresentação Final](https://github.com/thomazllr/bibliotech/blob/main/relatorios/apresentacao-final_bibliotech.pdf) |
 
 <hr>
