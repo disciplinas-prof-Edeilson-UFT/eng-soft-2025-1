@@ -98,19 +98,44 @@ A plataforma conta com login seguro, área de monitoramento, e funcionalidades v
 
 ---
 
+
 ### Grupo 5: 
-#### DailyPlanner
-O DailyPanner é uma plataforma de organização diaria, planejamento de atividades, e cumprimento de metas, com um viés focado em visual e experiência de usuário. Feito para trazer um controle à suas atividades diarias!
-#### Equipe
-| Nome | Github |
-| ------------------------- | ------------------------------------------ |
-| Isabela Barros de Oliveira. | [@Isabelabarros-o](https://github.com/isabelabarros-o) |
-| Letícia Gomes Lopes. | [@LeticiaGLopes](https://github.com/LeticiaGLopes-151) |
-| Luiz Fernando De Oliveira Carvalho. | [@Lfocarvalho](https://github.com/lfocarvalho) |
-| Mateus Leopoldo Santiago da Silva. | [@MateusLeopoldo](https://github.com/MateusLeopoldo) |
-| Natália Morais Nerys. | [@Natalia-Nerys](https://github.com/natalia-nerys) |
-| Ranor Victor dos Santos Araújo. | [@RanorVictor](https://github.com/ranorvictor) |
-| Link para repositório do projeto | [DailyPlanner](https://github.com/lfocarvalho/engenhariadesoftware)
+
+| <img src="https://github.com/lfocarvalho/engenhariadesoftware/blob/c7dec7857940ed4375cf1e80ae98d010acd14ae6/Daily_Planner/app/img/458632683-e6fa9761-08d9-4938-af4f-1b137490df52.png" alt="Logo do Projeto" width="1500"/> | <h2><a href="https://github.com/lfocarvalho/engenhariadesoftware">Daily Planner</a></h2><br>  O Daily Planner é uma aplicação de agenda pessoal online, inspirada em ferramentas como o Notion, mas com foco em simplicidade e objetividade. O projeto permite que os usuários gerenciem tarefas, organizem suas atividades diárias e acompanhem sua produtividade através de uma interface limpa e responsiva. Este projeto foi desenvolvido como parte da disciplina de Engenharia de Software da Universidade Federal do Tocantins. |
+| :----------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+
+## Tecnologias Utilizadas:
+
+  - **Backend:** PHP 7.4+ para toda a lógica da aplicação.
+  - **Banco de Dados:** MySQL com interação via PDO para prevenção de SQL Injection.
+  - **Frontend:** HTML5, CSS3 (com Flexbox e Grid) e JavaScript puro.
+  - **Bibliotecas:** Chart.js para gráficos de produtividade e PHPMailer para o serviço de e-mails.
+  - **API:** API RESTful para serviços desacoplados, como envio de e-mails, com autenticação via API Key.
+  - **Gerenciador de Dependências:** Composer para a API.
+  - **Testes:** PHPUnit para testes unitários da lógica de negócios.
+  - **Controle de Versão:** Git e GitHub.
+  - **DevOps:** Shell Script para automação da configuração do banco de dados.
+
+## Componentes do Projeto:
+
+| Nome                               | GitHub                                                     |
+| :--------------------------------- | :--------------------------------------------------------- |
+| Isabela Barros de Oliveira.        | [@Isabelabarros-o](https://github.com/isabelabarros-o)       |
+| Letícia Gomes Lopes.               | [@LeticiaGLopes-151](https://github.com/LeticiaGLopes-151)   |
+| Luiz Fernando De Oliveira Carvalho | [@Lfocarvalho](https://github.com/lfocarvalho)             |
+| Mateus Leopoldo Santiago da Silva  | [@MateusLeopoldo](https://github.com/MateusLeopoldo)       |
+| Natália Morais Nerys.              | [@natalia-nerys](https://github.com/natalia-nerys)         |
+| Ranor Victor dos Santos Araújo.    | [@ranorvictor](https://github.com/ranorvictor)             |
+
+## Repositório:
+
+| Links Úteis                                                                                                                |
+| :------------------------------------------------------------------------------------------------------------------------- |
+| [Daily Planner - Ir ao Repositório](https://github.com/lfocarvalho/engenhariadesoftware)                                   |
+| [Landing Page](https://)                                                            |
+| [Versão Final](https://)           |
+| [Video do Produto](https://)           |
+| [Apresentação Final](https://www.canva.com/design/DAGryiWg8vs/1biOXCbjtC6qSIbNcjb1kw/view?utm_content=DAGryiWg8vs&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hc76e07b93f)           |
 
 ---
 
