@@ -18,7 +18,7 @@
 - **PHP:** Backend da Aplicacação(Server side).
 - **HTML:** Estruturação do conteúdo e das páginas web.
 - **CSS:** Estilização das páginas web para uma melhor experiência do usuário.
-- **Java Script:** Manipulação do DOM e requisições para o lado do servidor (Client side).
+- **JavaScript:** Manipulação do DOM e requisições para o lado do servidor (Client side).
 - **Git:** Controle de versão do código.
 - **PostgreSQL:** Banco de dados. 
 
