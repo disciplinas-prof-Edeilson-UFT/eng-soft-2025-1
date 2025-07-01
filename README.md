@@ -3,6 +3,11 @@
 ### **Curso**: Bacharelado em Ciência da Computação
 ### **Professor**: Edeilson Milhomem da Silva
 
+## Descrição :
+O objetivo da disciplina foi propor que cada grupo desenvolvesse um projeto web com tema de livre escolha, tendo como foco a aplicação prática das tecnologias HTML, CSS e JavaScript no front-end, e PHP no back-end. No que diz respeito ao versionamento de código, foram utilizadas ferramentas como Git, GitFlow e GitHub.
+
+Além disso, metodologias ágeis estudadas ao longo da disciplina também deveriam ser incorporadas ao fluxo de trabalho do projeto. Dentre elas, destacam-se o Product Backlog, a Sprint Planning e o Daily Scrum, que contribuíram para uma organização mais eficiente das tarefas e para o desenvolvimento colaborativo entre os membros da equipe.
+
 ## Grupos:
 
 ### Grupo 1:
@@ -30,18 +35,19 @@
 | [Link para repositório do projeto](https://github.com/thomazllr/bibliotech) |
 
 ### Grupo 2: 
+
 #### FinPlan
-O FinPlan é uma plataforma online de gestão financeira pessoal desenvolvida para auxiliar usuários no controle das suas finanças de forma simples e eficiente. O sistema permite o cadastro de receitas e despesas, categorização de transações, visualização de relatórios e gráficos interativos gerados automaticamente baseado nas inserções do usuario.  A ferramenta foi pensada para quem deseja organizar o orçamento mensal, acompanhar investimentos e alcançar metas financeiras com clareza e praticidade.
+ |<h2>FinPlan</h2><br><p style="max-width:500px;">O FinPlan é uma plataforma online de gestão financeira pessoal desenvolvida para auxiliar usuários no controle das suas finanças de forma simples e eficiente. O sistema permite o cadastro de receitas e despesas, categorização de transações, visualização de relatórios e gráficos interativos gerados automaticamente baseado nas inserções do usuario.  A ferramenta foi pensada para quem deseja organizar o orçamento mensal, acompanhar investimentos e alcançar metas financeiras com clareza e praticidade.</p> <span><a href="https://sidydev-ai.github.io/FinPlan-LandingPage/">Landing page</a></span> <p></p> <span><a href="https://youtu.be/JFuamshfgn4?si=Y5ahFiLEvEaJ3IHQ">Vídeo</a></span> <p></p> <span><a href="https://github.com/SidyDev-AI/finplan/releases/tag/v5.1.0">Versão Final</a></span> <p></p> <span><a href="slides/finplan/Apresentação Final de Engenharia de Software.pptx">Apresentação Final</a></span>  |<img src="slides/finplan/logo.png" alt="FinPlan" style="width:150px; height:150px;"/> |
+| ------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+-------
+
 
 #### Equipe
 | Nome | Github |
 | ------------------------- | ------------------------------------------ |
-| Jose Borges | (https://github.com/SidyDev-AI) |
-| Lucas Carvalho da Luz Moura | (https://github.com/luc4sm0ur4) |
-| Thales Marques |(https://github.com/NerdeTI) |
-| Kawan de Sá | (https://github.com/Kawannawak) |
-| Anna Laura | (https://github.com/annalaura2) |
-| Ruan Carlos | (https://github.com/okkvlt) |
+| José Borges Costa | [@SidyDev-AI](https://github.com/SidyDev-AI) |
+| Lucas Carvalho da Luz Moura | [@luc4sm0ur4](https://github.com/luc4sm0ur4) |
+| Kawan de Sá | [@Kawannawak](https://github.com/Kawannawak) |
 | [Link para repositório do projeto](https://github.com/SidyDev-AI/finplan) |
 
 ---
