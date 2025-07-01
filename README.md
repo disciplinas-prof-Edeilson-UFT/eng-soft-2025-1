@@ -15,9 +15,9 @@
 
 ## Tecnologias Utilizadas:
 
-- **PHP:** Backend da Aplicacação(Server side).
-- **HTML:** Estruturação do conteúdo e das páginas web.
-- **CSS:** Estilização das páginas web para uma melhor experiência do usuário.
+- **PHP:** Backend da Aplicacação (Server side).
+- **HTML:** Estruturação do conteúdo e das páginas.
+- **CSS:** Estilização das páginas.
 - **JavaScript:** Manipulação do DOM e requisições para o lado do servidor (Client side).
 - **Git:** Controle de versão do código.
 - **PostgreSQL:** Banco de dados. 
