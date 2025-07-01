@@ -10,14 +10,17 @@
 #### BiblioTech
 
 
- |<h2><a href="https://biblioo.tech/">Bibliotech</a></h2><br>  O BiblioTech é uma livraria digital que permite a venda de livros digitais (ebooks) de forma acessível e organizada. <p></p> <span><a href="https://thomazllr.github.io/bibliotech/">Landing page</a></span> <p></p> <span><a href="#">Vídeo</a></span> <p></p> <span><a href="https://github.com/thomazllr/bibliotech/releases/tag/v5.0.0">Versão Final</a></span> <p></p> <span><a href="#">Apresentação Final</a></span>  |<img src="https://gwgmjgyiyrhwgnspuaud.supabase.co/storage/v1/object/sign/images/logo.jpg?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV9iYjA3NWUwNS1kY2Y3LTRhZjktOGUyNy01YmU4YzczZmVmNzEiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJpbWFnZXMvbG9nby5qcGciLCJpYXQiOjE3NTAyMDYyMDAsImV4cCI6MTkwNzg4NjIwMH0.vGC0x2iX3cm-lAqx0G9GfwEy9FzF0K_pmUA9sj1eOtk" alt="Bibliotech" /> |
+ |<h2><a href="https://bibliotech-1067371253069.southamerica-east1.run.app/">Bibliotech</a></h2><br> O BiblioTech é uma livraria digital que permite a venda de livros digitais (ebooks) de forma acessível e organizada. Os usuários poderão explorar um catálogo de livros, realizar compras e acessar sua biblioteca digital para leitura dos ebooks adquiridos.|<img src="https://gwgmjgyiyrhwgnspuaud.supabase.co/storage/v1/object/sign/images/logo.jpg?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV9iYjA3NWUwNS1kY2Y3LTRhZjktOGUyNy01YmU4YzczZmVmNzEiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJpbWFnZXMvbG9nby5qcGciLCJpYXQiOjE3NTAyMDYyMDAsImV4cCI6MTkwNzg4NjIwMH0.vGC0x2iX3cm-lAqx0G9GfwEy9FzF0K_pmUA9sj1eOtk" alt="Bibliotech" /> |
 | ------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
-![php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![html](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
-![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![javascript](	https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+## Tecnologias Utilizadas:
+
+- **PHP:** Backend da Aplicacação(Server side).
+- **HTML:** Estruturação do conteúdo e das páginas web.
+- **CSS:** Estilização das páginas web para uma melhor experiência do usuário.
+- **Java Script:** Manipulação do DOM e requisições para o lado do servidor (Client side).
+- **Git:** Controle de versão do código.
+- **PostgreSQL:** Banco de dados. 
 
 #### Equipe
 | Nome | Github |
@@ -27,7 +30,17 @@
 | Marcos Freire | [@MarcosFrMelo](https://github.com/MarcosFrMelo) |
 | Jhennifer da Silva | [@jhenisushi](https://github.com/jhenisushi) |
 | Luiz Felipe da paz leal | [@Luiz Felipe](https://github.com/arkfx) |
-| [Link para repositório do projeto](https://github.com/thomazllr/bibliotech) |
+
+#### Repositório:
+| Links Uteis                                                                                |
+|------------------------------------------------------------------------------------------- |
+| [BiblioTech - Ir ao Repositório](https://github.com/thomazllr/bibliotech)     |
+| [Landing Page](https://thomazllr.github.io/bibliotech/) |
+| [Versão Final](https://github.com/thomazllr/bibliotech/releases/tag/v5.0.0) |
+| [Vídeo do produto]() | 
+| [Apresentação Final]() |
+
+<hr>
 
 ### Grupo 2: 
 #### FinPlan
