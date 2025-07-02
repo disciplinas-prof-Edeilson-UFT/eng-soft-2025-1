@@ -39,7 +39,7 @@ Além disso, metodologias ágeis estudadas ao longo da disciplina também deveri
 |------------------------------------------------------------------------------------------- |
 | [BiblioTech - Ir ao Repositório](https://github.com/thomazllr/bibliotech)     |
 | [Landing Page](https://thomazllr.github.io/bibliotech/) |
-| [Versão Final](https://github.com/thomazllr/bibliotech/releases/tag/v5.0.0) |
+| [Última Release do Projeto](https://github.com/thomazllr/bibliotech/releases/tag/v5.0.0) |
 | [Vídeo do produto](https://youtu.be/jdrw7Boz4Xs?feature=shared) | 
 | [Apresentação Final](https://github.com/thomazllr/bibliotech/blob/main/relatorios/apresentacao-final_bibliotech.pdf) |
 
@@ -68,7 +68,7 @@ Além disso, metodologias ágeis estudadas ao longo da disciplina também deveri
 | [Link para repositório do projeto](https://github.com/SidyDev-AI/finplan) |
 | [Landing page](https://sidydev-ai.github.io/FinPlan-LandingPage/) |
 | [Vídeo](https://youtu.be/JFuamshfgn4?si=Y5ahFiLEvEaJ3IHQ) |
-| [Versão Final](https://github.com/SidyDev-AI/finplan/releases/tag/v5.2.0) |
+| [Última Release do Projeto](https://github.com/SidyDev-AI/finplan/releases/tag/v5.2.0) |
 | <a href="https://github.com/SidyDev-AI/finplan/tree/main/Apresenta%C3%A7%C3%A3o">Apresentação Final</a> |
 
 <hr>
@@ -92,7 +92,7 @@ Além disso, metodologias ágeis estudadas ao longo da disciplina também deveri
 |------------------------------------------------------------------------------------------- |
 | [Do it- Ir ao Repositório](https://github.com/DevThiagoGalvaoAmorim/Do-it.git)     |
 | [Landing Page](https://ruammarcos.github.io/landing_page/) |
-| [Versão Final](https://github.com/DevThiagoGalvaoAmorim/Do-it/archive/refs/tags/v1.7.zip) |
+| [Última Release do Projeto](https://github.com/DevThiagoGalvaoAmorim/Do-it/archive/refs/tags/v1.7.zip) |
 | [Vídeo do produto](https://drive.google.com/file/d/1ZOldysTAgGjsxIrZFBZADYAobRT2IB0B/view) | 
 | [Apresentação Final](https://github.com/DevThiagoGalvaoAmorim/Do-it/blob/main/relatorio/Apresenta%C3%A7%C3%A3o%20de%20trabalho%20de%20curso%20tcc%20moderno%20branco%20cinza.pdf) |
 
@@ -121,7 +121,7 @@ Além disso, metodologias ágeis estudadas ao longo da disciplina também deveri
 |------------------------------------------------------------------------------------------- |
 | [Gyga Fit - Ir ao Repositório](https://github.com/Samuel1-salc/Gyga-fit-gym.git)     |
 | [Landing Page](https://samuel1-salc.github.io/Gyga-fit-gym/) |
-| [release Final](https://github.com/Samuel1-salc/Gyga-fit-gym/releases/tag/v1.0.2) |
+| [Última Release do Projeto](https://github.com/Samuel1-salc/Gyga-fit-gym/releases/tag/v1.0.2) |
 | [Vídeo do produto](https://www.youtube.com/watch?v=48bZQogxUkQ) | 
 | [Apresentação Final](https://github.com/Samuel1-salc/Gyga-fit-gym/blob/main/view/relatorio/pdf%20apresenta%C3%A7%C3%A3o.pdf) |
 
@@ -163,7 +163,7 @@ Além disso, metodologias ágeis estudadas ao longo da disciplina também deveri
 | :------------------------------------------------------------------------------------------------------------------------- |
 | [Daily Planner - Ir ao Repositório](https://github.com/lfocarvalho/engenhariadesoftware)                                   |
 | [Landing Page](https://natalia-nerys.github.io/daily-landingPage/)                                                            |
-| [Versão Final](https://github.com/lfocarvalho/engenhariadesoftware/releases/tag/v3.0.0)           |
+| [Última Release do Projeto](https://github.com/lfocarvalho/engenhariadesoftware/releases/tag/v3.0.0)           |
 | [Video do Produto](https://youtu.be/Z9VFx2eBiZs)           |
 | [Apresentação Final](https://www.canva.com/design/DAGryiWg8vs/1biOXCbjtC6qSIbNcjb1kw/view?utm_content=DAGryiWg8vs&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hc76e07b93f)           |
 
@@ -189,7 +189,7 @@ Nome | Github
 | :------------------------------------------------------------------------------------------------------------------------- |
 | [NutriCalc - Repositório](https://github.com/JonataRubens/NutriCalc)  |
 | [Landing Page](https://jonatarubens.github.io/NutriCalc/)                                                           |
-| [Versão Final](http://34.56.153.53/)          |
+| [Última Release do Projeto](http://34.56.153.53/)          |
 | [Video do Produto](https://github.com/JonataRubens/NutriCalc/blob/396e4879f2ed8cbf5416601db055cd68022a8750/video-do-produto_final.mp4)          |
 | [Apresentação Final](https://gamma.app/docs/NutriCalc-ton6b9ixynp6jrf)         |
 
