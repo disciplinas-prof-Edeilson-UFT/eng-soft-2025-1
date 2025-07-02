@@ -8,6 +8,13 @@ O objetivo da disciplina foi propor que cada grupo desenvolvesse um projeto web 
 
 Além disso, metodologias ágeis estudadas ao longo da disciplina também deveriam ser incorporadas ao fluxo de trabalho do projeto. Dentre elas, destacam-se o Product Backlog, a Sprint Planning e o Daily Scrum, que contribuíram para uma organização mais eficiente das tarefas e para o desenvolvimento colaborativo entre os membros da equipe.
 
+![php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
+![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![css](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
+![docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
+
 ## Grupos:
 
 ### Grupo 1:
@@ -17,15 +24,6 @@ Além disso, metodologias ágeis estudadas ao longo da disciplina também deveri
 
  |<h2><a href="https://bibliotech-1067371253069.southamerica-east1.run.app/">Bibliotech</a></h2><br> O BiblioTech é uma livraria digital que permite a venda de livros digitais (ebooks) de forma acessível e organizada. Os usuários poderão explorar um catálogo de livros, realizar compras e acessar sua biblioteca digital para leitura dos ebooks adquiridos.|<img src="https://gwgmjgyiyrhwgnspuaud.supabase.co/storage/v1/object/sign/images/logo.jpg?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV9iYjA3NWUwNS1kY2Y3LTRhZjktOGUyNy01YmU4YzczZmVmNzEiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJpbWFnZXMvbG9nby5qcGciLCJpYXQiOjE3NTAyMDYyMDAsImV4cCI6MTkwNzg4NjIwMH0.vGC0x2iX3cm-lAqx0G9GfwEy9FzF0K_pmUA9sj1eOtk" alt="Bibliotech" /> |
 | ------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-
-## Tecnologias Utilizadas:
-
-- **PHP:** Backend da Aplicacação (Server side).
-- **HTML:** Estruturação do conteúdo e das páginas.
-- **CSS:** Estilização das páginas.
-- **JavaScript:** Manipulação do DOM e requisições para o lado do servidor (Client side).
-- **Git:** Controle de versão do código.
-- **PostgreSQL:** Banco de dados. 
 
 #### Equipe
 | Nome | Github |
