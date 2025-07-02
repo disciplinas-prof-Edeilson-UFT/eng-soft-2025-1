@@ -100,7 +100,7 @@ Além disso, metodologias ágeis estudadas ao longo da disciplina também deveri
 
 ### Grupo 4: 
 #### Gyga-fit
-|<h2>Gyga Fit<h2><br> O Gyga Fit é uma solução digital desenvolvida para otimizar a experiência dos alunos de academias, oferecendo um sistema online acessível por meio de um site. O projeto visa proporcionar praticidade no acesso aos serviços da academia, permitindo que os usuários se cadastrem, solicitem planos de treino personalizados e monitorem seu desempenho de forma intuitiva.|<img src = https://raw.githubusercontent.com/Samuel1-salc/Gyga-fit-gym/main/view/img/logo.png alt = "Gyga fit"  width="1500px"/>
+|<h2>Gyga Fit</h2><br> O Gyga Fit é uma solução digital desenvolvida para otimizar a experiência dos alunos de academias, oferecendo um sistema online acessível por meio de um site. O projeto visa proporcionar praticidade no acesso aos serviços da academia, permitindo que os usuários se cadastrem, solicitem planos de treino personalizados e monitorem seu desempenho de forma intuitiva.|<img src = https://raw.githubusercontent.com/Samuel1-salc/Gyga-fit-gym/main/view/img/logo.png alt = "Gyga fit"  width="1500px"/>
 | ------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 
