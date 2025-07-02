@@ -162,10 +162,10 @@ Além disso, metodologias ágeis estudadas ao longo da disciplina também deveri
 | Links Úteis                                                                                                                |
 | :------------------------------------------------------------------------------------------------------------------------- |
 | [Daily Planner - Ir ao Repositório](https://github.com/lfocarvalho/engenhariadesoftware)                                   |
-| [Landing Page](https://)                                                            |
-| [Versão Final](https://)           |
-| [Video do Produto](https://)           |
-| [Apresentação Final](https://www.canva.com/design/DAGryiWg8vs/1biOXCbjtC6qSIbNcjb1kw/view?utm_content=DAGryiWg8vs&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hc76e07b93f)           |
+| [Landing Page]((https://natalia-nerys.github.io/daily-landingPage/))                                                            |
+| [Versão Final]((https://github.com/lfocarvalho/engenhariadesoftware/releases/tag/v3.0.0))           |
+| [Video do Produto]((https://youtu.be/Z9VFx2eBiZs))           |
+| [Apresentação Final]((https://www.canva.com/design/DAGryiWg8vs/1biOXCbjtC6qSIbNcjb1kw/view?utm_content=DAGryiWg8vs&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hc76e07b93f))           |
 
 ---
 
