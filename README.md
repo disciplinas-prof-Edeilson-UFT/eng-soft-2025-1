@@ -93,7 +93,7 @@ Além disso, metodologias ágeis estudadas ao longo da disciplina também deveri
 | [Do it- Ir ao Repositório](https://github.com/DevThiagoGalvaoAmorim/Do-it.git)     |
 | [Landing Page](https://ruammarcos.github.io/landing_page/) |
 | [Versão Final](https://github.com/DevThiagoGalvaoAmorim/Do-it/archive/refs/tags/v1.7.zip) |
-| [Vídeo do produto]() | 
+| [Vídeo do produto](https://drive.google.com/file/d/1ZOldysTAgGjsxIrZFBZADYAobRT2IB0B/view) | 
 | [Apresentação Final](https://www.canva.com/design/DAGr99UTFEo/EJM_w0ObUJSm2F1VG77BiA/edit?utm_content=DAGr99UTFEo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) |
 
 ---
