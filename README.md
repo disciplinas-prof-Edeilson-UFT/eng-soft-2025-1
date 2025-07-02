@@ -69,7 +69,7 @@ Além disso, metodologias ágeis estudadas ao longo da disciplina também deveri
 | [Landing page](https://sidydev-ai.github.io/FinPlan-LandingPage/) |
 | [Vídeo](https://youtu.be/JFuamshfgn4?si=Y5ahFiLEvEaJ3IHQ) |
 | [Versão Final](https://github.com/SidyDev-AI/finplan/releases/tag/v5.2.0) |
-| <a href="slides/finplan/Apresentação Final de Engenharia de Software.pptx">Apresentação Final</a> |
+| <a href="https://github.com/SidyDev-AI/finplan/tree/main/Apresenta%C3%A7%C3%A3o">Apresentação Final</a> |
 
 <hr>
 
