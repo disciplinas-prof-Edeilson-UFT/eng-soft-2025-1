@@ -100,11 +100,10 @@ Além disso, metodologias ágeis estudadas ao longo da disciplina também deveri
 
 ### Grupo 4: 
 #### Gyga-fit
-O Gyga Fit é uma solução digital desenvolvida para otimizar a experiência dos alunos de academias, oferecendo um sistema online acessível por meio de um site. O projeto visa proporcionar praticidade no acesso aos serviços da academia, permitindo que os usuários se cadastrem, solicitem planos de treino personalizados e monitorem seu desempenho de forma intuitiva.
+|<h2>Gyga Fit<h2><br> O Gyga Fit é uma solução digital desenvolvida para otimizar a experiência dos alunos de academias, oferecendo um sistema online acessível por meio de um site. O projeto visa proporcionar praticidade no acesso aos serviços da academia, permitindo que os usuários se cadastrem, solicitem planos de treino personalizados e monitorem seu desempenho de forma intuitiva.|<img src = https://raw.githubusercontent.com/Samuel1-salc/Gyga-fit-gym/main/view/img/logo.png alt = "Gyga fit"  width="1500px"/>
+| ------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
-Além disso, o sistema também contempla o uso por professores, que podem cadastrar e gerenciar planos de treino para os alunos. O Gyga Fit conta ainda com uma estrutura de administração mais ampla, permitindo que um administrador geral gerencie múltiplas academias (firmas) e controle o acesso de gerentes responsáveis por unidades específicas.
 
-A plataforma conta com login seguro, área de monitoramento, e funcionalidades voltadas tanto para o público aluno quanto para a equipe da academia, tornando a gestão mais eficiente e completa.
 
 #### Equipe
 | Nome | Github |
@@ -115,7 +114,17 @@ A plataforma conta com login seguro, área de monitoramento, e funcionalidades v
 | Sophia Ribeiro prado  | (https://github.com/sophiaprado1) |
 | Heitor Fernades | (https://github.com/HeitorFernandes04) |
 | Mauricio Monteiro | (https://github.com/MontDeP) |
-| [Link para repositório do projeto](https://github.com/Samuel1-salc/Gyga-fit-gym.git) |
+
+
+#### Repositório:
+| Links Uteis                                                                                |
+|------------------------------------------------------------------------------------------- |
+| [Gyga Fit - Ir ao Repositório](https://github.com/Samuel1-salc/Gyga-fit-gym.git)     |
+| [Landing Page]() |
+| [Versão Final](https://github.com/Samuel1-salc/Gyga-fit-gym/releases/tag/v1.0.2) |
+| [Vídeo do produto]() | 
+| [Apresentação Final]() |
+
 
 ---
 
