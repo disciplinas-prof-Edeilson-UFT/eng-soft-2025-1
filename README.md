@@ -64,15 +64,14 @@ Além disso, metodologias ágeis estudadas ao longo da disciplina também deveri
 
 #### Repositório:
 | Links Uteis                                                                                |
-|------------------------------------------------------------------------------------------- 
-|
+|------------------------------------------------------------------------------------------- |
 | [Link para repositório do projeto](https://github.com/SidyDev-AI/finplan) |
 | [Landing page](https://sidydev-ai.github.io/FinPlan-LandingPage/) |
 | [Vídeo](https://youtu.be/JFuamshfgn4?si=Y5ahFiLEvEaJ3IHQ) |
 | [Versão Final](https://github.com/SidyDev-AI/finplan/releases/tag/v5.1.0) |
 | <a href="slides/finplan/Apresentação Final de Engenharia de Software.pptx">Apresentação Final</a> |
 
----
+<hr>
 
 ### Grupo 3:
 |![5e59dc5f-01ae-4219-9555-aa839e718ddf](https://github.com/user-attachments/assets/160b84f3-2270-439e-a23d-f93fd4c2fed8) | <h2><a href="https://github.com/DevThiagoGalvaoAmorim/Do-it">Do it</a></h2><br> Este é um aplicativo de gerenciamento de tarefas que ajuda você a organizar, acompanhar e concluir suas tarefas com eficiência! |
