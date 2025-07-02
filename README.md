@@ -120,7 +120,7 @@ Além disso, metodologias ágeis estudadas ao longo da disciplina também deveri
 | Links Uteis                                                                                |
 |------------------------------------------------------------------------------------------- |
 | [Gyga Fit - Ir ao Repositório](https://github.com/Samuel1-salc/Gyga-fit-gym.git)     |
-| [Landing Page]() |
+| [Landing Page](https://samuel1-salc.github.io/Gyga-fit-gym/) |
 | [Versão Final](https://github.com/Samuel1-salc/Gyga-fit-gym/releases/tag/v1.0.2) |
 | [Vídeo do produto]() | 
 | [Apresentação Final]() |
