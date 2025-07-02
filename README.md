@@ -94,7 +94,7 @@ Além disso, metodologias ágeis estudadas ao longo da disciplina também deveri
 | [Landing Page](https://ruammarcos.github.io/landing_page/) |
 | [Versão Final](https://github.com/DevThiagoGalvaoAmorim/Do-it/archive/refs/tags/v1.7.zip) |
 | [Vídeo do produto](https://drive.google.com/file/d/1ZOldysTAgGjsxIrZFBZADYAobRT2IB0B/view) | 
-| [Apresentação Final](https://www.canva.com/design/DAGr99UTFEo/EJM_w0ObUJSm2F1VG77BiA/edit?utm_content=DAGr99UTFEo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) |
+| [Apresentação Final](https://github.com/DevThiagoGalvaoAmorim/Do-it/blob/main/relatorio/Apresenta%C3%A7%C3%A3o%20de%20trabalho%20de%20curso%20tcc%20moderno%20branco%20cinza.pdf) |
 
 ---
 
@@ -190,6 +190,8 @@ Nome | Github
 | [NutriCalc - Repositório](https://github.com/JonataRubens/NutriCalc)  |
 | [Landing Page](https://jonatarubens.github.io/NutriCalc/)                                                           |
 | [Versão Final](http://34.56.153.53/)          |
+| [Video do Produto](https://github.com/JonataRubens/NutriCalc/blob/396e4879f2ed8cbf5416601db055cd68022a8750/video-do-produto_final.mp4)          |
+| [Apresentação Final](https://gamma.app/docs/NutriCalc-ton6b9ixynp6jrf)         |
 
 ---
 
