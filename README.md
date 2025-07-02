@@ -48,7 +48,7 @@ Além disso, metodologias ágeis estudadas ao longo da disciplina também deveri
 ### Grupo 2: 
 
 #### FinPlan
- |<h2>FinPlan</h2><br><p style="max-width:500px;">O FinPlan é uma plataforma online de gestão financeira pessoal desenvolvida para auxiliar usuários no controle das suas finanças de forma simples e eficiente. O sistema permite o cadastro de receitas e despesas, categorização de transações, visualização de relatórios e gráficos interativos gerados automaticamente baseado nas inserções do usuario.  A ferramenta foi pensada para quem deseja organizar o orçamento mensal, acompanhar investimentos e alcançar metas financeiras com clareza e praticidade.</p> <span><a href="https://sidydev-ai.github.io/FinPlan-LandingPage/">Landing page</a></span> <p></p> <span><a href="https://youtu.be/JFuamshfgn4?si=Y5ahFiLEvEaJ3IHQ">Vídeo</a></span> <p></p> <span><a href="https://github.com/SidyDev-AI/finplan/releases/tag/v5.1.0">Versão Final</a></span> <p></p> <span><a href="slides/finplan/Apresentação Final de Engenharia de Software.pptx">Apresentação Final</a></span>  |<img src="slides/finplan/logo.png" alt="FinPlan" style="width:150px; height:150px;"/> |
+ |<h2>FinPlan</h2><br>O FinPlan é uma plataforma online de gestão financeira pessoal desenvolvida para auxiliar usuários no controle das suas finanças de forma simples e eficiente. O sistema permite o cadastro de receitas e despesas, categorização de transações, visualização de relatórios e gráficos interativos gerados automaticamente baseado nas inserções do usuario.  A ferramenta foi pensada para quem deseja organizar o orçamento mensal, acompanhar investimentos e alcançar metas financeiras com clareza e praticidade. |<img src="slides/finplan/logo.png" alt="FinPlan" width="1500px"/> |
 | ------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 -------
 
@@ -59,7 +59,18 @@ Além disso, metodologias ágeis estudadas ao longo da disciplina também deveri
 | José Borges Costa | [@SidyDev-AI](https://github.com/SidyDev-AI) |
 | Lucas Carvalho da Luz Moura | [@luc4sm0ur4](https://github.com/luc4sm0ur4) |
 | Kawan de Sá | [@Kawannawak](https://github.com/Kawannawak) |
+
+---
+
+#### Repositório:
+| Links Uteis                                                                                |
+|------------------------------------------------------------------------------------------- 
+|
 | [Link para repositório do projeto](https://github.com/SidyDev-AI/finplan) |
+| [Landing page](https://sidydev-ai.github.io/FinPlan-LandingPage/) |
+| [Vídeo](https://youtu.be/JFuamshfgn4?si=Y5ahFiLEvEaJ3IHQ) |
+| [Versão Final](https://github.com/SidyDev-AI/finplan/releases/tag/v5.1.0) |
+| <a href="slides/finplan/Apresentação Final de Engenharia de Software.pptx">Apresentação Final</a> |
 
 ---
 
