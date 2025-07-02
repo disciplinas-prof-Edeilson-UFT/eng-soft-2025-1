@@ -190,6 +190,8 @@ Nome | Github
 | [NutriCalc - Repositório](https://github.com/JonataRubens/NutriCalc)  |
 | [Landing Page](https://jonatarubens.github.io/NutriCalc/)                                                           |
 | [Versão Final](http://34.56.153.53/)          |
+| [Video do Produto](https://github.com/JonataRubens/NutriCalc/blob/396e4879f2ed8cbf5416601db055cd68022a8750/video-do-produto_final.mp4)          |
+| [Apresentação Final](https://gamma.app/docs/NutriCalc-ton6b9ixynp6jrf)         |
 
 ---
 
