@@ -151,10 +151,8 @@ A plataforma conta com login seguro, área de monitoramento, e funcionalidades v
 ---
 
 ### Grupo 6:
-
-#### NutriCalc
-
-NutriCalc é uma aplicação web desenvolvida com PHP, HTML e CSS, com o objetivo de facilitar o controle e acompanhamento de informações nutricionais.
+| <img src="https://github.com/JonataRubens/NutriCalc/blob/396e4879f2ed8cbf5416601db055cd68022a8750/logo%20nutri%20(1).png" alt="Logo do Projeto" width="300"/> | <h2>NutriCalc</h2> NutriCalc é uma aplicação web desenvolvida com PHP, HTML e CSS, com o objetivo de facilitar o controle e acompanhamento de informações nutricionais.|
+| :----------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 #### Equipe
 
@@ -162,15 +160,17 @@ Nome | Github
 --- | ---    
 [Afonso Dglan](https://github.com/AfonsoDglan) | [@AfonsoDglan](https://github.com/AfonsoDglan)
 [Caio Gonçalves Nascimento](https://github.com/caiogn-dev) | [@caiogn-dev](https://github.com/caiogn-dev)  
-[Carlos Ribeiro](https://github.com/caiogn-dev) | [@CarlosRibeiro-CERL](https://github.com/CarlosRibeiro-CERL)  
 [Jonata Rubens](https://github.com/JonataRubens) | [@JonataRubens](https://github.com/JonataRubens)
 [Marcus Vinícius](https://github.com/Galessss) | [@Galessss](https://github.com/Galessss)
 
- 
 
-#### Link para o Repositório do Projeto
+## Repositório:
 
-[Repositório](https://github.com/JonataRubens/NutriCalc.git)
+| Links Úteis                                                                                                                |
+| :------------------------------------------------------------------------------------------------------------------------- |
+| [NutriCalc - Repositório](https://github.com/JonataRubens/NutriCalc)  |
+| [Landing Page](https://jonatarubens.github.io/NutriCalc/)                                                           |
+| [Versão Final](http://34.56.153.53/)          |
 
 ---
 
